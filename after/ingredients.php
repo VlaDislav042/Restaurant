@@ -1,6 +1,7 @@
 <?php
 
 $pageTitle = "Our ingredients";
+$pageKey = "ingredients";
 $headerImg = "images/pexels-engin-akyurt-1435904.jpg";
 
 

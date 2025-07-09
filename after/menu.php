@@ -1,6 +1,7 @@
 <?php
 
 $pageTitle = "Our menu";
+$pageKey = "menu";
 $headerImg = "images/pexels-fwstudio-172289.jpg";
 
 
